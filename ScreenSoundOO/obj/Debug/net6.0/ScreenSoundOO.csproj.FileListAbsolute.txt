@@ -1,0 +1,14 @@
+D:\repos-csharp\ScreenSoundOO\bin\Debug\net6.0\ScreenSoundOO.exe
+D:\repos-csharp\ScreenSoundOO\bin\Debug\net6.0\ScreenSoundOO.deps.json
+D:\repos-csharp\ScreenSoundOO\bin\Debug\net6.0\ScreenSoundOO.runtimeconfig.json
+D:\repos-csharp\ScreenSoundOO\bin\Debug\net6.0\ScreenSoundOO.dll
+D:\repos-csharp\ScreenSoundOO\bin\Debug\net6.0\ScreenSoundOO.pdb
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ScreenSoundOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ScreenSoundOO.AssemblyInfoInputs.cache
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ScreenSoundOO.AssemblyInfo.cs
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ScreenSoundOO.csproj.CoreCompileInputs.cache
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ScreenSoundOO.dll
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\refint\ScreenSoundOO.dll
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ScreenSoundOO.pdb
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ScreenSoundOO.genruntimeconfig.cache
+D:\repos-csharp\ScreenSoundOO\obj\Debug\net6.0\ref\ScreenSoundOO.dll
