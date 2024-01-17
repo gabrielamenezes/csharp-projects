@@ -21,7 +21,7 @@ namespace ScreenSoundOO
         public int Duracao { get; set; }
         public bool Disponivel { get; set; }
         public Genero Genero { get; set; }
-        public string Descricao => $"A música {Nome} pertende ao artista {Artista}";
+        public string Descricao => $"A música {Nome} pertende ao artista {Artista.Nome}";
 
         public void ExibirFichaTecnica()
         {
