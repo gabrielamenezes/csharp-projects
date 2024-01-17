@@ -25,7 +25,7 @@ namespace ScreenSoundOO
         public void ExibirDetalhes()
         {
             Console.WriteLine($"Podcast {Nome} é hosteado por {Host}");
-            foreach (Episodio episodio in TotalEpisodios)
+            foreach (Episodio episodio in TotalEpisodios.OrderBy(e => e.Ordem))
             {
                 Console.WriteLine($"Episódio número {episodio.Ordem} - {episodio.Titulo} - Duração: {episodio.Duracao} \n");
             }
