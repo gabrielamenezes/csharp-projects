@@ -13,8 +13,8 @@ namespace ScreenSoundOO
             this.Host = host;
             this.Nome = nome;
         }
-        public string Host { get; set; }
-        public string Nome { get; set; }
+        public string Host { get;}
+        public string Nome { get;}
         private List<Episodio> TotalEpisodios = new List<Episodio>();
 
         public void AdicionarEpisodio(Episodio episodio)
