@@ -1,4 +1,5 @@
 ﻿using ScreenSoundOO;
+using ScreenSoundOO.Models;
 
 Podcast podcast = new Podcast("Mark", "TI");
 Episodio ep1 = new Episodio(1, "técnicas de facilitação", 45);

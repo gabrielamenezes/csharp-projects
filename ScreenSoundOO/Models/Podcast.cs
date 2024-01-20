@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ScreenSoundOO.Models;
 
-namespace ScreenSoundOO
+namespace ScreenSoundOO.Models
 {
     internal class Podcast
     {
